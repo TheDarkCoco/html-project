@@ -1,0 +1,31 @@
+#BG{
+    background-color: rgb(175, 216, 234);
+    
+    
+}
+#Name {
+   color: rgba(61, 144, 179, 0.981);
+   font-family: 'Dancing Script', cursive;
+   
+}
+h2 {
+    color: rgba(61, 144, 179, 0.981);
+    font-family: 'Caveat', cursive;
+    font-family: 'Protest Riot', sans-serif;
+    
+ }
+
+#Hi{
+    color: rgba(61, 144, 179, 0.981);
+}
+
+.wish{
+    top: 150px;
+    font-size: 2rem;
+}
+ hr{
+    border: dotted rgba(32, 127, 168, 0.981) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+ }
